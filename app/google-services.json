@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947763562100",
+    "project_id": "animebogi",
+    "storage_bucket": "animebogi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947763562100:android:23daf76474be4790447321",
+        "android_client_info": {
+          "package_name": "com.example.animebogi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947763562100-rqo866vhcpjodo7lumvr38e7aa5j2kd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebMYa_5xiAxAK9avh5RGVlzGFNAApNpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947763562100-rqo866vhcpjodo7lumvr38e7aa5j2kd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
